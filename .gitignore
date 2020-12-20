@@ -1,0 +1,11 @@
+*
+!src
+!data
+!.gitignore
+!*.cpp
+!*.h
+!*.hpp
+!*.p
+!*.plt
+!Make*
+!*.inp
