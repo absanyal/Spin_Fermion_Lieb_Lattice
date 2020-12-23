@@ -31,6 +31,7 @@ double xorshift64::random()
     if (seed_set == false)
     {
         std::cout << "\nSeed was never set." << std::endl;
+	return 0;
     }
     else
     {
